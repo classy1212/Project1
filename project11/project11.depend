@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1701048935 source:c:\users\sisyphus\downloads\project11\sortalgorithms.cpp
+	"insert.h"
+	<bits/stdc++.h>
+	"comparison.h"
+
+1700954718 c:\users\sisyphus\downloads\project11\insert.h
+	<vector>
+
+1701051769 source:c:\users\sisyphus\downloads\project11\main.cpp
+	"insert.h"
+	<bits/stdc++.h>
+	"comparison.h"
+
+1701051858 source:c:\users\sisyphus\downloads\project11\comparison.cpp
+	"insert.h"
+	<bits/stdc++.h>
+	"comparison.h"
+
+1701051216 c:\users\sisyphus\downloads\project11\comparison.h
+	<vector>
+
+1700954678 source:c:\users\sisyphus\downloads\project11\insert.cpp
+	"insert.h"
+	<bits/stdc++.h>
+	"comparison.h"
+
